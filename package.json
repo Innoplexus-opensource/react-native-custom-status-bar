@@ -1,0 +1,37 @@
+{
+  "name": "@innoplexus/react-native-custom-status-bar",
+  "version": "1.0.0",
+  "description": "A customizable status bar component for React Native applications, supporting both Android and iOS platforms.",
+  "license": "ISC",
+  "author": "Sominath Thore",
+  "type": "commonjs",
+  "main": "CustomStatusBar.js",
+  "scripts": {
+    "start": "react-native start",
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "lint": "eslint .",
+    "format": "prettier --write .",
+    "test": "jest"
+  },
+  "peerDependencies": {
+    "react": "19.0.0",
+    "react-native": "0.78.0"
+  },
+  "keywords": [
+    "react-native",
+    "status-bar",
+    "custom-status-bar",
+    "android",
+    "ios",
+    "react-native-component",
+    "react-native-ui",
+    "react",
+    "mobile-development"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/your-repo-name.git"
+  },
+  "homepage": "https://github.com/your-username/your-repo-name#readme"
+}
