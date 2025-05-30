@@ -60,6 +60,4 @@ This package helps you customize the status bar easily in Android and iOS 🚀
 Authors
 ===============
 
-1. Sominath Thore, `Innoplexus <https://www.innoplexus.com/>`__.
-
-
+1. Sominath Thore, Innoplexus [https://www.innoplexus.com/]
