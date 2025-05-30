@@ -1,6 +1,6 @@
 {
   "name": "@innoplexus/react-native-custom-status-bar",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A customizable status bar component for React Native applications, supporting both Android and iOS platforms.",
   "license": "ISC",
   "author": "Sominath Thore",
