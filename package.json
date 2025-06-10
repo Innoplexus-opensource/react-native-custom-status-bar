@@ -31,7 +31,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/your-repo-name.git"
+    "url": "https://github.com/Innoplexus-opensource/react-native-custom-status-bar.git"
   },
-  "homepage": "https://github.com/your-username/your-repo-name#readme"
+  "homepage": "https://github.com/Innoplexus-opensource/react-native-custom-status-bar.git#readme"
 }
